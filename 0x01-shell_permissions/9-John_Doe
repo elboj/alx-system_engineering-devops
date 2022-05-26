@@ -1,3 +1,2 @@
 #!/bin/bash
 /bin/chown julien:julien ./hello
-/bin/chmod 743 ./hello
