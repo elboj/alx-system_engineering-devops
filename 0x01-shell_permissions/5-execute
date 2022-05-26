@@ -1,2 +1,2 @@
 #!/bin/bash
-/bin/chomod u+x hello
+/bin/chomod u+x ./hello
