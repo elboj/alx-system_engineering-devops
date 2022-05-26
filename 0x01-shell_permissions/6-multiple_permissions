@@ -1,2 +1,2 @@
 #!/bin/bash
-/bin/chmod 112 ./hello
+/bin/chmod 554 ./hello
