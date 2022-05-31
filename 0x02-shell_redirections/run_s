@@ -1,4 +1,4 @@
 #!/bin/bash
-/bin/git add .
-/bin/git commit -m "ff"
-/bin/git push
+git add .
+git commit -m "updated commit"
+git push
